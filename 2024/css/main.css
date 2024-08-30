@@ -86,7 +86,6 @@ button {
   cursor: pointer;
   background: transparent;
   border: none;
-  /*color: #f3f3f3;*/
 }
 
 #btn-cierra {
@@ -94,6 +93,7 @@ button {
   top: 0;
   right: 0;
   font-size: 3rem;
+  color: yellow;
 }
 
 #btn-retrocede {
@@ -101,6 +101,7 @@ button {
   top: 50%;
   left: 0;
   font-size: 3rem;
+  color: yellow;
 }
 
 #btn-adelanta {
@@ -108,6 +109,7 @@ button {
   top: 50%;
   right: 0;
   font-size: 3rem;
+  color: yellow;
 }
 
 #texto {
@@ -115,9 +117,9 @@ button {
   bottom: 0;
   left: 0;
   font-size: 2rem;
-  /*color: #f3f3f3;*/
   margin: 0;
   padding: 0;
+  color: yellow;
 }
 
 /*#contenedor-interno img {
